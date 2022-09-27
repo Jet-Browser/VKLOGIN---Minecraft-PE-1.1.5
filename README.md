@@ -11,3 +11,5 @@ This plugin is open source, you can rewrite it for yourself
 Этот плагин с открытым исходным кодом, вы можете переписать его под себя
 
 ![Screenshot_1](https://user-images.githubusercontent.com/110713770/192497966-1c21455a-e236-4f32-b030-a4735327270c.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/110713770/192498730-acfb9b9a-d700-487c-b87c-e1a8fec30365.png)
